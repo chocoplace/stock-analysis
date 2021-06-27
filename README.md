@@ -52,3 +52,10 @@ With original code:
 
 ![Green_Stocks_2018](https://github.com/chocoplace/stock-analysis/blob/main/Resources/Green_Stocks_2018.png)
 
+Among the conclusion we can highlight from this project are: 
+
+- The initial interest of our client was to invest in DQ, however the analysis can predict a trend of the instability of the stock’s performance. 
+- The analysis shows ENPH and RUN as the two stocks that have a positive and steady performance. The client can evaluate the option to invest. 
+- Expanding the analysis from one to twelve stocks broadened the scope of the analysis and offered us the opportunity to improve our code, making it better and faster.
+
+
