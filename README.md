@@ -10,9 +10,9 @@ This project equipped the client with a tool to carry out a comprehensive compar
 
 *Baseline of the project:
 
-The analysis began with the objective of identifying the behavior of a specific stock but later we expanded, per the client request, to include the entire stock market over the last few years. 
-
 Initially the client was interested only in learning how actively the stock “DQ” was traded in 2018 and its yearly return, information needed to evaluate future investments. 
+
+The analysis began with the objective of identifying the behavior of a specific stock but later we expanded, per the client request, to include the entire stock market over the last few years. This request requires us to refactor or original code to provide an even faster way to analyze the data. 
 
 *Elements of the code*: We wrote a code to output the information from the dataset [Green_Stocks](https://github.com/chocoplace/stock-analysis/blob/main/green_stocks.xlsm) with three key components: Ticker, Total Daily Volume and Return. The code includes different elements and techniques such as: variables, nested loops, conditionals, formatting, among others. The refactored code can be revise here: [VBA_Challenge_Final](https://github.com/chocoplace/stock-analysis/blob/main/VBA_Challenge_Final.vbs)
 
@@ -31,12 +31,24 @@ Initially the client was interested only in learning how actively the stock “D
 - The top three stocks of 2017 are DQ with a 199.45% increase from the beginning of the year or $35,796,200.00 of stock value; followed by SEDG with a yearly return increase of 184.47% or $206,885,200.00 of value; and ENPH with an increase of 129.52% and a value of $221,772,100.00. 
 - The analysis is conducted in 1.3125 seconds. 
 
+With refactored code: 
+
 ![VBA_Challenge_2017](https://github.com/chocoplace/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+With original code: 
+
+![Green_Stocks_2017](https://github.com/chocoplace/stock-analysis/blob/main/Resources/Green_Stocks_2017.png)
 
 - According to the analysis results, 2018 was a difficult year for the portfolio of stocks. Only two of the 12 stocks reported positive returns from the beginning of the year.
 - Among the stocks that delivered positive returns, we can highlight RUN with the highest return with an 83.95% increase and a $607,473,500.00 value. 
 - Among the stocks with the lowest returns are DQ with a -62.60% decrease, JKS with a -60.53% of decrease, and SPWR with a -44.59% of decrease.
 - The analysis is conducted in 1.2343 seconds.
 
+With refactored code:
+
 ![VBA_Challenge_2018](https://github.com/chocoplace/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+With original code:
+
+![Green_Stocks_2018](https://github.com/chocoplace/stock-analysis/blob/main/Resources/Green_Stocks_2018.png)
 
