@@ -75,5 +75,7 @@ We can conclude the following:
 
 - Disadvantages: One of the limitations I see while working on refactoring the code was having to implement new actions on the code while keeping the pattern. For me, it presented a challenge because I haven't perfected the skill to code and the exercise forced me to go over my own code. If this was a challenge with a code I created, I can imagine the challenge of working with a preexisting code. Another disadvantage was determining if the refactored code made a minimum impact on the efficiency of the VBA script, the new code runs slightly faster than the original. 
 
+End
+
 
 
