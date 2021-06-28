@@ -52,10 +52,28 @@ With original code:
 
 ![Green_Stocks_2018](https://github.com/chocoplace/stock-analysis/blob/main/Resources/Green_Stocks_2018.png)
 
-Among the conclusion we can highlight from this project are: 
+We can conclude the following:  
 
 - The initial interest of our client was to invest in DQ, however the analysis can predict a trend of the instability of the stock’s performance. 
 - The analysis shows ENPH and RUN as the two stocks that have a positive and steady performance. The client can evaluate the option to invest. 
 - Expanding the analysis from one to twelve stocks broadened the scope of the analysis and offered us the opportunity to improve our code, making it better and faster.
+
+#### Summary
+
+*Advantages and disadvantages of refactoring code in general*
+
+- Advantages: One of the benefits of refactoring code, in general, is to have the opportunity to improve the performance by tidying up the script. For a beginner is an opportunity to identify patterns or re-usable code for future projects and apply the “Don't Repeat Yourself” rule, among other learned techniques. 
+
+- Disadvantages: One of the limitations of refactoring code, in general, is the relation between the amount of time invested in improving the script and the functionality, investing time in improving the code does not ensure an improvement inefficiency. For beginners, refactoring code can be challenging even more if the code was created by another programmer.
+
+
+*Advantages and disadvantages of the original and refactored VBA script*
+
+- Advantages: As a student of data analysis and visualization, the major advantage or improvement I experienced while refactoring the VBA script was to practice and understand at a deeper level each function of the code. In particular with the original code, the script for formatting was in a different subroutine and was challenging connecting both (at the end I created a button for format), and by refactoring the code I was able to include the formatting on the same script and have all the analysis and formatting in ONE click. See picture: 
+
+![Final_buttons](https://github.com/chocoplace/stock-analysis/blob/main/Resources/Final_buttons.png)
+
+- Disadvantages: One of the limitations I see while working on refactoring the code was having to implement new actions on the code while keeping the pattern. For me, it presented a challenge because I haven't perfected the skill to code and the exercise forced me to go over my own code. If this was a challenge with a code I created, I can imagine the challenge of working with a preexisting code. Another disadvantage was determining if the refactored code made a minimum impact on the efficiency of the VBA script, the new code runs slightly faster than the original. 
+
 
 
