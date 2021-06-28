@@ -29,7 +29,7 @@ The analysis began with the objective of identifying the behavior of a specific 
 - According to the analysis results, 2017 was a great year for the portfolio of stocks, reporting 11 of 12 stocks with positive returns from the beginning of the year.
 - DQ delivered the highest return with a 199.45% of increase and TERP was the only stock that reported losses with a -7.21% decrease. 
 - The top three stocks of 2017 are DQ with a 199.45% increase from the beginning of the year or $35,796,200.00 of stock value; followed by SEDG with a yearly return increase of 184.47% or $206,885,200.00 of value; and ENPH with an increase of 129.52% and a value of $221,772,100.00. 
-- The analysis is conducted in 1.3125 seconds. 
+- The analysis with the original code was conducted in 1.3359 seconds and with the refactored script was conducted in 1.3125 seconds. 
 
 With refactored code: 
 
@@ -42,7 +42,7 @@ With original code:
 - According to the analysis results, 2018 was a difficult year for the portfolio of stocks. Only two of the 12 stocks reported positive returns from the beginning of the year.
 - Among the stocks that delivered positive returns, we can highlight RUN with the highest return with an 83.95% increase and a $607,473,500.00 value. 
 - Among the stocks with the lowest returns are DQ with a -62.60% decrease, JKS with a -60.53% of decrease, and SPWR with a -44.59% of decrease.
-- The analysis is conducted in 1.2343 seconds.
+- The analysis with the original code was conducted in 1.3320 seconds and with the refactored script was conducted in 1.2343 seconds.
 
 With refactored code:
 
